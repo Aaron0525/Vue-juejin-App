@@ -1,7 +1,5 @@
 > Vue2.0构建的掘金移动端APP
 
-## 预览地址： http://www.upyang.com/Vue-juejin-App/#/home/homepage
-项目中使用了mock数据来渲染组件，完整的项目演示还需下载源码查看。
 
 ## 效果截图
 <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/25353012.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/30337680.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-8-5/10352955.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/22646946.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/45382409.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/38129297.jpg" width="250" height="400">
