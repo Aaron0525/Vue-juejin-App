@@ -1,26 +1,24 @@
-<<<<<<< HEAD
-# Vue-juejin-App
-Vue2.0构建的掘金移动端APP
-=======
-# juejin
+> Vue2.0构建的掘金移动端APP
 
-> 掘金移动端App
+## 预览地址： http://www.upyang.com/Vue-juejin-App/#/home/homepage
+项目中使用了mock数据来渲染组件，完整的项目演示还需下载源码查看。
 
-## Build Setup
+## 效果截图
+<img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/25353012.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/30337680.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-8-5/10352955.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/22646946.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/45382409.jpg" width="250" height="400">  <img src="http://oszamq4pp.bkt.clouddn.com/17-7-25/38129297.jpg" width="250" height="400">
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
+## 安装与运行
 
-# build for production and view the bundle analyzer report
-npm run build --report
+```
+https://github.com/Aaron0525/Vue-juejin-App.git
+cd Vue-juejin-App
+
+npm install //安装依赖
+
+npm run dev //服务端运行 访问 http://localhost:8080
+
+npm run build  //项目打包 
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
->>>>>>> message
+### 觉得有用的，可以来个star哦！
